@@ -45,11 +45,11 @@ plt.ylabel("Close")
 plt.plot(data["Close"])
 plt.show()
 
-Now I will be using the autots library in Python to train a machine learning model for predicting the future prices of Dogecoin. If you have never used this library before then you can easily install it in your system by using the pip command
+Now I will be using the autots library in Python to train a machine learning model for predicting the future prices of Shiba Inu coin. If you have never used this library before then you can easily install it in your system by using the pip command
 
 pip install autots
 
-Now let’s train the Dogecoin price prediction model and have a look at the future prices of Shiba Inu coin
+Now let’s train the Shiba Inu coin price prediction model and have a look at the future prices of Shiba Inu coin
 Training a machine learning model
 from seaborn import regression
 
