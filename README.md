@@ -46,9 +46,6 @@ plt.plot(data["Close"])
 plt.show()
 
 Now I will be using the autots library in Python to train a machine learning model for predicting the future prices of Shiba Inu coin. If you have never used this library before then you can easily install it in your system by using the pip command
-<h2>Dashboard</h2>
-
-![Screenshot (8)](https://user-images.githubusercontent.com/70066441/213255660-ed066dc9-b2bf-4a6f-b531-b031047a5ab0.png)
 
 pip install autots
 
@@ -61,3 +58,10 @@ prediction = model.predict()forecast = prediction.forecastprint("Shiba Inu Price
 
 Summary
 There are many machine learning approaches that we can use for the task of predicting the future prices of Shiba Inu coin. In this project, I introduced you to how you can predict the future prices of Shiba Inu coin by using the autots library in Python. I hope you like on how to predict the future prices of  Shiba Inu coin with Machine Learning using Python.
+
+<h2>Dashboard</h2>
+
+![Screenshot (8)](https://user-images.githubusercontent.com/70066441/213255660-ed066dc9-b2bf-4a6f-b531-b031047a5ab0.png)
+
+
+
